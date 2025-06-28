@@ -1,3 +1,9 @@
+# Development moved to [monorepo](https://github.com/jridgewell/sourcemaps)
+
+See https://github.com/jridgewell/sourcemaps/tree/main/packages/source-map for latest code.
+
+- - -
+
 # @jridgewell/source-map
 
 > Packages `@jridgewell/trace-mapping` and `@jridgewell/gen-mapping` into the familiar source-map API
